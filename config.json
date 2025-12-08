@@ -1,0 +1,11 @@
+{
+  "notification": {
+    "enabled": false,
+    "content": {
+      "title": "Image size info has been updated.",
+      "message": "Please check for updates and see if you still want to use our extension.",
+      "ctaUrl": "https://chromewebstore.google.com/detail/akddgghkhjhhnghfclkmmkcmdbpdcgej",
+      "ctaText": "Click View"
+    }
+  }
+}
